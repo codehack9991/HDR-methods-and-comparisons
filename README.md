@@ -1,6 +1,12 @@
 # HDR-methods-and-comparisons
 HDR imge generation using various state of the art methods and their result comparisons
 
+## HDR image generation using ILP (Inverted Local Patterns) 
+based on the paper 
+###          "High performance high dynamic range image generation by Inverted Local Patterns" 
+         by Shih-Chang Hsia and Ting Tseng Kuo
+         IET image processsing, 2015
+
 ## Setup
 The codes for ILP (Inverted Local Patterns) and CLAHE(Contrast Limited Adaptive Histogram Equalization) is present in MATLAB
 
